@@ -15,3 +15,7 @@ https://kakao.closer.ai/ <br>
 플러스친구 관리자센터에 등록한 스마트채팅API 주소만 입력하면 끝! <br>
 
 카카오 오픈빌더 연동 : https://guide.closer.ai/builder/messenger-integrations/kakao#openbuilder <br>
+
+관련 자료 및 링크 <br>
+ㄴ https://www.one-tab.com/page/8lRPlr1HRc2fi5AfaoXa6Q <br>
+ㄴ Shortened URL : https://bit.ly/2SBP5Qv
